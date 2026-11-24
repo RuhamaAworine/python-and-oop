@@ -1,2 +1,2 @@
-# python-learning-journey
-My Python learning journey covering fundamentals, problem solving
+# python-and-oop
+Python fundamentals, object-oriented programming, and coding practice.
